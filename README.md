@@ -7,12 +7,20 @@ Kotlin | Java | Android & more...
 
 I'm an Android developer with Web Service in Rest, always thinking about cool projects, using my creativity and technical knowledge, in this profile you can find a little piece of my work, I really hope you like it, thank you
 
-<details>
-<summary>📊 Github Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=NewtonCesarRoncari&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
-</details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCesarRoncari&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+ <div>
+  <a href="https://github.com/newtonCesarRoncari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewtonCesarRoncari&show_icons=true&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCesarRoncari&layout=compact&theme=gotham"/>
+<div>
+ <p>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="New-An" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img align="center" alt="New-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="New-Ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/{NewtonCesarRoncari}/count.svg)
 
