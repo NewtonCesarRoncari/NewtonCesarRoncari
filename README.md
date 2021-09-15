@@ -10,9 +10,11 @@ I'm an Android developer with Web Service in Rest, always thinking about cool pr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewtonCesarRoncari&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCesarRoncari&layout=compact&theme=gotham"/>
 </div>
+ <!--- comment
 <p>
 <img src="https://github-profile-trophy.vercel.app/?username=NewtonCesarRoncari&theme=darkhub&margin-w=6&margin-h=6" alt="NewtonCesarRoncari" />
-</p>
+</p>  end comment
+--> 
 <div style="display: inline_block"><br>
   <img align="center" alt="New-An" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="New-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
