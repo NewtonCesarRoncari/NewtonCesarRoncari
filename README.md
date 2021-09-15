@@ -9,13 +9,14 @@ I'm an Android developer with Web Service in Rest, always thinking about cool pr
   <a href="https://github.com/newtonCesarRoncari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NewtonCesarRoncari&show_icons=true&theme=gotham"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewtonCesarRoncari&layout=compact&theme=gotham"/>
-<div>
- <p>
-  
+</div>
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=NewtonCesarRoncari&theme=darkhub&margin-w=6&margin-h=6" alt="NewtonCesarRoncari" />
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="New-An" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="New-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt="New-Sp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="New-Sp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="New-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="New-Ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
