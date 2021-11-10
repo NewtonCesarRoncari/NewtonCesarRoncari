@@ -23,3 +23,5 @@ I'm an Android developer with Web Service in Rest, always thinking about cool pr
   <img align="center" alt="New-Ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="New-Gh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+ 
+ ![Snake animation](https://github.com/NewtonCesarRoncari/NewtonCesarRoncari/blob/output/github-contribution-grid-snake.svg)
